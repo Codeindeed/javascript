@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello word. djgjcfkrcj khkckh
+=======
+Hello word djkdjdlwdldjlj
+>>>>>>> refs/remotes/origin/master
